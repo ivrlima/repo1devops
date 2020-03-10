@@ -1,7 +1,5 @@
 127.0.0.1	localhost
 127.0.1.1	debian9
-<<<<<<< HEAD
 10.0.3.15       save
-=======
 10.0.4.12       teste
->>>>>>> 96d328ec0262d1dc3e7a8ad774af7da3307032f0
+10.1.2.11	teste2
